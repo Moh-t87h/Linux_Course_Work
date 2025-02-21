@@ -1,0 +1,8 @@
+* a434ce8 (HEAD -> main, question_1) Added q1_output.txt with system details
+* fcefa45 (origin/main) Move code files to CODE
+* cc0993b Move data files to DATA
+* 80c85de Created DATA directory with README file
+* f304f25 Created CODE directory with README file
+* 5e1b0f7 Extracted download.tar.gz and added files
+* be76b70 Added downloads.tar.gz
+* a57dec2 START
