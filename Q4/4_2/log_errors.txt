@@ -1,0 +1,4 @@
+usage: plant_plots.py [-h] --plant PLANT --height HEIGHT [HEIGHT ...]
+                      --leaf_count LEAF_COUNT [LEAF_COUNT ...] --dry_weight
+                      DRY_WEIGHT [DRY_WEIGHT ...]
+plant_plots.py: error: the following arguments are required: --plant, --height, --leaf_count, --dry_weight

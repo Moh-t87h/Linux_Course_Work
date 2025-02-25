@@ -1,0 +1,26 @@
+2025-02-25 23:34:04 - ERROR: No CSV file provided! Usage: ./run_plants.sh <path-to-csv>
+usage: plant_plots.py [-h] --plant PLANT --height HEIGHT [HEIGHT ...]
+                      --leaf_count LEAF_COUNT [LEAF_COUNT ...] --dry_weight
+                      DRY_WEIGHT [DRY_WEIGHT ...]
+plant_plots.py: error: argument --height: invalid float value: '"50'
+2025-02-25 23:36:43 - ERROR: Failed to run Python for Rose
+usage: plant_plots.py [-h] --plant PLANT --height HEIGHT [HEIGHT ...]
+                      --leaf_count LEAF_COUNT [LEAF_COUNT ...] --dry_weight
+                      DRY_WEIGHT [DRY_WEIGHT ...]
+plant_plots.py: error: argument --height: invalid float value: '"30'
+2025-02-25 23:36:43 - ERROR: Failed to run Python for Tulip
+usage: plant_plots.py [-h] --plant PLANT --height HEIGHT [HEIGHT ...]
+                      --leaf_count LEAF_COUNT [LEAF_COUNT ...] --dry_weight
+                      DRY_WEIGHT [DRY_WEIGHT ...]
+plant_plots.py: error: argument --height: invalid float value: '"120'
+2025-02-25 23:36:43 - ERROR: Failed to run Python for Sunflower
+usage: plant_plots.py [-h] --plant PLANT --height HEIGHT [HEIGHT ...]
+                      --leaf_count LEAF_COUNT [LEAF_COUNT ...] --dry_weight
+                      DRY_WEIGHT [DRY_WEIGHT ...]
+plant_plots.py: error: argument --height: invalid float value: '"40'
+2025-02-25 23:36:44 - ERROR: Failed to run Python for Daffodil
+usage: plant_plots.py [-h] --plant PLANT --height HEIGHT [HEIGHT ...]
+                      --leaf_count LEAF_COUNT [LEAF_COUNT ...] --dry_weight
+                      DRY_WEIGHT [DRY_WEIGHT ...]
+plant_plots.py: error: argument --height: invalid float value: '"60'
+2025-02-25 23:36:44 - ERROR: Failed to run Python for Lily

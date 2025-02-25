@@ -1,0 +1,219 @@
+2025-02-25 23:36:41 - Starting the process of creating diagrams for all plants from the file plants_data.csv...
+2025-02-25 23:36:41 - A virtual environment already exists.
+2025-02-25 23:36:41 - The virtual environment has been activated.
+2025-02-25 23:36:41 - Installing required packages...
+2025-02-25 23:36:42 - Processing data for plant: Rose
+2025-02-25 23:36:42 - Created folder: Plants/Rose
+2025-02-25 23:36:43 - Images for Rose have been moved to directory: Plants/Rose
+2025-02-25 23:36:43 - Processing data for plant: Tulip
+2025-02-25 23:36:43 - Created folder: Plants/Tulip
+2025-02-25 23:36:43 - Images for Tulip have been moved to directory: Plants/Tulip
+2025-02-25 23:36:43 - Processing data for plant: Sunflower
+2025-02-25 23:36:43 - Created folder: Plants/Sunflower
+2025-02-25 23:36:43 - Images for Sunflower have been moved to directory: Plants/Sunflower
+2025-02-25 23:36:43 - Processing data for plant: Daffodil
+2025-02-25 23:36:43 - Created folder: Plants/Daffodil
+2025-02-25 23:36:44 - Images for Daffodil have been moved to directory: Plants/Daffodil
+2025-02-25 23:36:44 - Processing data for plant: Lily
+2025-02-25 23:36:44 - Created folder: Plants/Lily
+2025-02-25 23:36:44 - Images for Lily have been moved to directory: Plants/Lily
+2025-02-25 23:36:44 - The virtual environment has been closed.
+2025-02-25 23:36:44 - The diagram creation process has completed successfully!
+2025-02-25 23:48:41 - Starting the process of creating diagrams for all plants from the file plants_data.csv...
+2025-02-25 23:48:41 - A virtual environment already exists.
+2025-02-25 23:48:41 - The virtual environment has been activated.
+2025-02-25 23:48:41 - Installing required packages...
+2025-02-25 23:48:42 - Processing plant: Rose
+2025-02-25 23:48:42 - Processing data for plant: Rose
+2025-02-25 23:48:42 - Created folder: Plants/Rose
+Plant: Rose
+Height data: [50.0, 55.0, 60.0, 65.0, 70.0] cm
+Leaf count data: [35, 40, 45, 50, 55]
+Dry weight data: [2.0, 2.2, 2.5, 2.7, 3.0] g
+Generated plots for Rose:
+Scatter plot saved as Rose_scatter.png
+Histogram saved as Rose_histogram.png
+Line plot saved as Rose_line_plot.png
+2025-02-25 23:48:43 - Images for Rose have been moved to directory: Plants/Rose
+2025-02-25 23:48:43 - Processing plant: Tulip
+2025-02-25 23:48:43 - Processing data for plant: Tulip
+2025-02-25 23:48:43 - Created folder: Plants/Tulip
+Plant: Tulip
+Height data: [30.0, 35.0, 40.0, 42.0] cm
+Leaf count data: [12, 15, 18, 20]
+Dry weight data: [1.5, 1.6, 1.7, 1.8] g
+Generated plots for Tulip:
+Scatter plot saved as Tulip_scatter.png
+Histogram saved as Tulip_histogram.png
+Line plot saved as Tulip_line_plot.png
+2025-02-25 23:48:44 - Images for Tulip have been moved to directory: Plants/Tulip
+2025-02-25 23:48:44 - Processing plant: Sunflower
+2025-02-25 23:48:44 - Processing data for plant: Sunflower
+2025-02-25 23:48:44 - Created folder: Plants/Sunflower
+Plant: Sunflower
+Height data: [120.0, 125.0, 130.0, 135.0] cm
+Leaf count data: [50, 55, 60, 65]
+Dry weight data: [5.0, 5.5, 6.0, 6.5] g
+Generated plots for Sunflower:
+Scatter plot saved as Sunflower_scatter.png
+Histogram saved as Sunflower_histogram.png
+Line plot saved as Sunflower_line_plot.png
+2025-02-25 23:48:45 - Images for Sunflower have been moved to directory: Plants/Sunflower
+2025-02-25 23:48:45 - Processing plant: Daffodil
+2025-02-25 23:48:45 - Processing data for plant: Daffodil
+2025-02-25 23:48:45 - Created folder: Plants/Daffodil
+Plant: Daffodil
+Height data: [40.0, 45.0, 50.0, 55.0] cm
+Leaf count data: [15, 18, 20, 22]
+Dry weight data: [1.8, 2.0, 2.2, 2.5] g
+Generated plots for Daffodil:
+Scatter plot saved as Daffodil_scatter.png
+Histogram saved as Daffodil_histogram.png
+Line plot saved as Daffodil_line_plot.png
+2025-02-25 23:48:45 - Images for Daffodil have been moved to directory: Plants/Daffodil
+2025-02-25 23:48:45 - Processing plant: Lily
+2025-02-25 23:48:45 - Processing data for plant: Lily
+2025-02-25 23:48:45 - Created folder: Plants/Lily
+Plant: Lily
+Height data: [60.0, 65.0, 70.0] cm
+Leaf count data: [20, 22, 24]
+Dry weight data: [2.5, 2.7, 3.0] g
+Generated plots for Lily:
+Scatter plot saved as Lily_scatter.png
+Histogram saved as Lily_histogram.png
+Line plot saved as Lily_line_plot.png
+2025-02-25 23:48:46 - Images for Lily have been moved to directory: Plants/Lily
+2025-02-25 23:48:46 - The virtual environment has been closed.
+2025-02-25 23:48:46 - The diagram creation process has completed successfully!
+2025-02-26 00:00:59 - Starting the process of creating diagrams for all plants from the file plants_data.csv...
+2025-02-26 00:00:59 - Creating a virtual environment...
+2025-02-26 00:01:02 - The virtual environment has been activated.
+2025-02-26 00:01:02 - Installing required packages...
+2025-02-26 00:01:09 - Processing plant: Rose
+2025-02-26 00:01:09 - Processing data for plant: Rose
+2025-02-26 00:01:09 - Created folder: Plants/Rose
+Plant: Rose
+Height data: [50.0, 55.0, 60.0, 65.0, 70.0] cm
+Leaf count data: [35, 40, 45, 50, 55]
+Dry weight data: [2.0, 2.2, 2.5, 2.7, 3.0] g
+Generated plots for Rose:
+Scatter plot saved as Rose_scatter.png
+Histogram saved as Rose_histogram.png
+Line plot saved as Rose_line_plot.png
+2025-02-26 00:01:12 - Images for Rose have been moved to directory: Plants/Rose
+2025-02-26 00:01:12 - Processing plant: Tulip
+2025-02-26 00:01:12 - Processing data for plant: Tulip
+2025-02-26 00:01:12 - Created folder: Plants/Tulip
+Plant: Tulip
+Height data: [30.0, 35.0, 40.0, 42.0] cm
+Leaf count data: [12, 15, 18, 20]
+Dry weight data: [1.5, 1.6, 1.7, 1.8] g
+Generated plots for Tulip:
+Scatter plot saved as Tulip_scatter.png
+Histogram saved as Tulip_histogram.png
+Line plot saved as Tulip_line_plot.png
+2025-02-26 00:01:13 - Images for Tulip have been moved to directory: Plants/Tulip
+2025-02-26 00:01:13 - Processing plant: Sunflower
+2025-02-26 00:01:13 - Processing data for plant: Sunflower
+2025-02-26 00:01:13 - Created folder: Plants/Sunflower
+Plant: Sunflower
+Height data: [120.0, 125.0, 130.0, 135.0] cm
+Leaf count data: [50, 55, 60, 65]
+Dry weight data: [5.0, 5.5, 6.0, 6.5] g
+Generated plots for Sunflower:
+Scatter plot saved as Sunflower_scatter.png
+Histogram saved as Sunflower_histogram.png
+Line plot saved as Sunflower_line_plot.png
+2025-02-26 00:01:14 - Images for Sunflower have been moved to directory: Plants/Sunflower
+2025-02-26 00:01:14 - Processing plant: Daffodil
+2025-02-26 00:01:14 - Processing data for plant: Daffodil
+2025-02-26 00:01:14 - Created folder: Plants/Daffodil
+Plant: Daffodil
+Height data: [40.0, 45.0, 50.0, 55.0] cm
+Leaf count data: [15, 18, 20, 22]
+Dry weight data: [1.8, 2.0, 2.2, 2.5] g
+Generated plots for Daffodil:
+Scatter plot saved as Daffodil_scatter.png
+Histogram saved as Daffodil_histogram.png
+Line plot saved as Daffodil_line_plot.png
+2025-02-26 00:01:15 - Images for Daffodil have been moved to directory: Plants/Daffodil
+2025-02-26 00:01:15 - Processing plant: Lily
+2025-02-26 00:01:15 - Processing data for plant: Lily
+2025-02-26 00:01:15 - Created folder: Plants/Lily
+Plant: Lily
+Height data: [60.0, 65.0, 70.0] cm
+Leaf count data: [20, 22, 24]
+Dry weight data: [2.5, 2.7, 3.0] g
+Generated plots for Lily:
+Scatter plot saved as Lily_scatter.png
+Histogram saved as Lily_histogram.png
+Line plot saved as Lily_line_plot.png
+2025-02-26 00:01:16 - Images for Lily have been moved to directory: Plants/Lily
+2025-02-26 00:01:16 - The virtual environment has been closed.
+2025-02-26 00:01:16 - The diagram creation process has completed successfully!
+2025-02-26 00:10:20 - Starting the process of creating diagrams for all plants from the file plants_data.csv...
+2025-02-26 00:10:20 - Creating a virtual environment...
+2025-02-26 00:10:23 - The virtual environment has been activated.
+2025-02-26 00:10:23 - Installing required packages...
+2025-02-26 00:10:31 - Processing plant: Rose
+2025-02-26 00:10:31 - Processing data for plant: Rose
+2025-02-26 00:10:31 - Created folder: Plants/Rose
+Plant: Rose
+Height data: [50.0, 55.0, 60.0, 65.0, 70.0] cm
+Leaf count data: [35, 40, 45, 50, 55]
+Dry weight data: [2.0, 2.2, 2.5, 2.7, 3.0] g
+Generated plots for Rose:
+Scatter plot saved as Rose_scatter.png
+Histogram saved as Rose_histogram.png
+Line plot saved as Rose_line_plot.png
+2025-02-26 00:10:32 - Images for Rose have been moved to directory: Plants/Rose
+2025-02-26 00:10:32 - Processing plant: Tulip
+2025-02-26 00:10:32 - Processing data for plant: Tulip
+2025-02-26 00:10:32 - Created folder: Plants/Tulip
+Plant: Tulip
+Height data: [30.0, 35.0, 40.0, 42.0] cm
+Leaf count data: [12, 15, 18, 20]
+Dry weight data: [1.5, 1.6, 1.7, 1.8] g
+Generated plots for Tulip:
+Scatter plot saved as Tulip_scatter.png
+Histogram saved as Tulip_histogram.png
+Line plot saved as Tulip_line_plot.png
+2025-02-26 00:10:33 - Images for Tulip have been moved to directory: Plants/Tulip
+2025-02-26 00:10:33 - Processing plant: Sunflower
+2025-02-26 00:10:33 - Processing data for plant: Sunflower
+2025-02-26 00:10:33 - Created folder: Plants/Sunflower
+Plant: Sunflower
+Height data: [120.0, 125.0, 130.0, 135.0] cm
+Leaf count data: [50, 55, 60, 65]
+Dry weight data: [5.0, 5.5, 6.0, 6.5] g
+Generated plots for Sunflower:
+Scatter plot saved as Sunflower_scatter.png
+Histogram saved as Sunflower_histogram.png
+Line plot saved as Sunflower_line_plot.png
+2025-02-26 00:10:34 - Images for Sunflower have been moved to directory: Plants/Sunflower
+2025-02-26 00:10:34 - Processing plant: Daffodil
+2025-02-26 00:10:34 - Processing data for plant: Daffodil
+2025-02-26 00:10:34 - Created folder: Plants/Daffodil
+Plant: Daffodil
+Height data: [40.0, 45.0, 50.0, 55.0] cm
+Leaf count data: [15, 18, 20, 22]
+Dry weight data: [1.8, 2.0, 2.2, 2.5] g
+Generated plots for Daffodil:
+Scatter plot saved as Daffodil_scatter.png
+Histogram saved as Daffodil_histogram.png
+Line plot saved as Daffodil_line_plot.png
+2025-02-26 00:10:35 - Images for Daffodil have been moved to directory: Plants/Daffodil
+2025-02-26 00:10:35 - Processing plant: Lily
+2025-02-26 00:10:35 - Processing data for plant: Lily
+2025-02-26 00:10:35 - Created folder: Plants/Lily
+Plant: Lily
+Height data: [60.0, 65.0, 70.0] cm
+Leaf count data: [20, 22, 24]
+Dry weight data: [2.5, 2.7, 3.0] g
+Generated plots for Lily:
+Scatter plot saved as Lily_scatter.png
+Histogram saved as Lily_histogram.png
+Line plot saved as Lily_line_plot.png
+2025-02-26 00:10:35 - Images for Lily have been moved to directory: Plants/Lily
+2025-02-26 00:10:35 - The virtual environment has been closed.
+2025-02-26 00:10:35 - The diagram creation process has completed successfully!
