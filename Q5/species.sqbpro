@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="species.db" readonly="0" foreign_keys="" case_sensitive_like="" temp_store="" wal_autocheckpoint="" synchronous=""/><attached/><window><main_tabs open="structure browser pragmas query" current="0"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="983"/><column_width id="4" width="0"/></tab_structure><tab_browse><current_table name="0,0:"/><default_encoding codec=""/><browse_table_settings/></tab_browse><tab_sql><sql name="SQL 1">SELECT name FROM sqlite_master WHERE type='table';
+
+SELECT * FROM species;
+
+SELECT * FROM species LIMIT 5;
+
+SELECT * FROM species ORDER BY &quot;Date collected&quot; DESC;
+
+SELECT &quot;Species&quot;, AVG(&quot;Weight&quot;) AS avg_weight
+FROM species
+GROUP BY &quot;Species&quot;;
+
+SELECT &quot;Species&quot;, SUM(&quot;Weight&quot;) AS total_weight
+FROM species
+GROUP BY &quot;Species&quot;;
+
+SELECT * FROM species ORDER BY &quot;Weight&quot; DESC;
+
+SELECT &quot;Sex&quot;, AVG(&quot;Weight&quot;) AS avg_weight
+FROM species
+GROUP BY &quot;Sex&quot;;
+
+SELECT &quot;Species&quot;, COUNT(*) AS count
+FROM species
+GROUP BY &quot;Species&quot;;
+
+SELECT &quot;Sex&quot;, COUNT(*) AS count
+FROM species
+GROUP BY &quot;Sex&quot;;
+
+SELECT * FROM species WHERE &quot;Species&quot; = 'OT';
+
+
+
+ ד
+
+
+
+</sql><current_tab id="0"/></tab_sql></sqlb_project>
