@@ -1,0 +1,5 @@
+"Species"	"Mean_Weight"
+"4"	26
+"OT"	24.8
+"PF"	7.5
+NA	139.8
