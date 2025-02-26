@@ -1,0 +1,35 @@
+2025-02-26 18:39:07 - CSV file created with initial data.
+2025-02-26 18:39:12 - Displaying CSV data:
+ 1 Date collected,Species,Sex,Weight
+ 2 1/8,PF,M,7
+ 3 2/18,OT,M,24
+ 4 2/19,OT,F,23
+ 5 3/11,NA,M,232
+ 6 3/11,OT,F,22
+ 7 3/11,OT,M,26
+ 8 3/11,PF,M,8
+ 9 4/8,NA,F,8
+10 5/6,NA,F,45
+11 5/18,NA,F,182
+12 6/9,OT,F,29
+2025-02-26 18:42:17 - New row added: 3, 4, M, 26
+2/19,OT,F,23
+3/11,OT,F,22
+4/8,NA,F,8
+5/6,NA,F,45
+5/18,NA,F,182
+6/9,OT,F,29
+1/8,PF,M,7
+2/18,OT,M,24
+3/11,NA,M,232
+3/11,OT,M,26
+3/11,PF,M,8
+3,4,M,26
+2025-02-26 18:43:40 - Saved output to a new CSV file (species_data_backup.csv)
+2025-02-26 18:44:11 - Saved output to a new CSV file (species_data_backup.csv)
+2025-02-26 18:45:06 - Exiting program.
+2025-02-26 18:47:40 - New row added: 3/11, NA, M, 232
+2025-02-26 18:47:58 - Saved output to a new CSV file (species_data_backup.csv)
+2025-02-26 18:49:09 - Deleted row 28 from CSV.
+2025-02-26 18:49:41 - Updated weight at row 27 to 22.
+2025-02-26 18:49:44 - Exiting program.
