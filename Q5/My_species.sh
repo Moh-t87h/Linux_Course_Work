@@ -1,7 +1,7 @@
 #!/bin/bash
 
-CSV_FILE="species_data.csv"
-OUTPUT_LOG="5_output.txt"
+CSV_FILE="/data/species_data.csv"
+OUTPUT_LOG="/data/5_output.txt"
 
 # פונקציה להדפסת הודעות ושמירתן בקובץ
 log_message() {

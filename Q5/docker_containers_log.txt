@@ -1,0 +1,18 @@
+===== Docker Containers Log =====
+Timestamp: Wed Feb 26 21:31:26 IST 2025
+
+=== Running Containers ===
+CONTAINER ID   NAMES        IMAGE            STATUS
+cc7281f994bc   container3   species_script   Up 7 minutes
+e495dcdb1a44   container2   species_script   Up 18 minutes
+
+=== Files in container2 ===
+total 8
+-rw-r--r-- 1 root root  58 Feb 26 19:13 5_output.txt
+-rw-r--r-- 1 root root 172 Feb 26 19:13 species_data.csv
+
+=== Files in container3 ===
+total 8
+-rw-r--r-- 1 root root  58 Feb 26 19:24 5_output.txt
+-rw-r--r-- 1 root root 172 Feb 26 19:24 species_data.csv
+
